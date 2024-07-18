@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
 
-Tecnologias utilizadas: React + TypeScript.
+Tecnologias utilizadas: React Native + TypeScript.
 
 # Instalação:
 
