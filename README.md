@@ -1,14 +1,18 @@
-# Projeto Projeto Filmes.
+## Projeto: Movies
 
-Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React Native + TypeScript.
+- [Expo]()
+- [Javascript]()
+- [React Native]()
+- [React Hook Form]()
+- [React Navigation]()
 
-# Instalação:
+## Instalação:
 
 - `npx create-expo-app@latest`
 - `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
 - `npm start`
